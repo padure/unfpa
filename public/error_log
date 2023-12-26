@@ -1,0 +1,1 @@
+[25-Mar-2021 12:57:12 Europe/Chisinau] PHP Fatal error:  Declaration of Illuminate\Container\Container::get($id) must be compatible with Psr\Container\ContainerInterface::get(string $id) in /home/iptmd/questionnaire.ipt.md/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 15

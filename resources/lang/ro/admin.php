@@ -1,0 +1,66 @@
+<?php
+
+return [
+    'table_header_name_ro' => 'Nume Ro',
+    'table_header_name_ru' => 'Nume Ru',
+    'table_header_stage' => 'Etapa',
+    'table_header_tab' => 'Tab',
+    'table_header_number' => '#',
+    'language_dropdown' => 'Limba',
+    'home_link' => 'Acasă',
+    'school' => 'Școli',
+    'result' => [
+        'name' => 'Rezultate'
+    ],
+    'download_xlsx' => [
+        'label' => 'Descarcă XLSX',
+        'all' => 'Toate',
+    ],
+    'question' => 'Întrebări',
+    'answers' => [
+        'name' => 'Răspunsuri',
+        'add_button' => 'Adaugă răspuns',
+        'letter' => 'Litera',
+        'answer' => 'Răspuns',
+    ],
+    'questions' => [
+        'name' => 'Întrebare',
+        'add_question' => 'Adaugă întrebare',
+        'question_title' => 'Întrebări',
+        'school_title' => 'Școli',
+        'name_ro' => 'Nume RO',
+        'name_ru' => 'Nume RU',
+        'stage' => 'Etapa',
+        'tab' => 'Tab',
+        'submit' => 'Trimite',
+        'edit' => 'Editează',
+        'delete' => 'Șterge',
+    ],
+    'schools' => [
+        'add_school' => 'Adaugă școală',
+        'schools' => 'Școli',
+        'school' => 'Școală',
+        'city' => 'Oraș',
+        'delete' => 'Șterge',
+    ],
+    'city' => 'Oraș',
+    'school_added_success' => 'Școala a fost adăugată cu succes',
+    'school_deleted_success' => 'Școala a fost ștearsă cu succes.',
+    'table_headings' => [
+        'school' => 'Școală',
+        'first_name' => 'Nume',
+        'last_name' => 'Prenume',
+        'email' => 'Email',
+        'phone' => 'Telefon',
+        'class' => 'Clasă',
+        'grade' => 'Notă',
+        'pdf' => 'PDF',
+    ],
+    'status' => [
+        'correct' => 'Corect',
+        'incorrect' => 'Incorect',
+    ],
+    'missing' => 'Lipsește',
+    'incorrect' => 'Incorect',
+    'correct' => 'Corect',
+];

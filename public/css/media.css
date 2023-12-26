@@ -1,0 +1,111 @@
+@media screen and (max-width: 980px) {
+	body{
+		min-width: 320px;
+	}
+	nav ul{
+		margin-left: 10px;
+	}
+	.res-wrp{
+		display: none;
+	}
+	.reg-img{
+		display: none;
+	}
+	.reg-form{
+		max-width: 980px;
+		margin: auto;
+		width: calc(100% - 10px);
+		margin-bottom: 20px;
+	}
+	.test0-container{
+		background: none;
+	}
+	.test1-instruction{
+		align-items: center;
+		width: 100%;
+	}
+	.test1-instruction p{
+		margin: 0;
+		padding: 10px;
+		text-align: center;
+		max-width: 100%;
+	}
+	.test-wrp{
+		width: calc(100% - 10px);
+		padding: 5px;
+	}
+	.mod-row input{
+		margin-left: 20px;
+	}
+	.qgroup-top{
+		font-size: 12px;
+	}
+	.qgroup-top span:nth-child(1){
+		width: 60%;
+	}
+	.qgroup-top span:nth-child(2),
+	.qgroup-top span:nth-child(3){
+		width: 20%;
+	}
+	.qgroup-item label{
+		font-size: 14px;
+		width: 60%;
+
+	}
+	.qgroup-item input{
+		width: 20%;
+	}
+	.test1-container{
+		background: none;
+	}
+		.main-logo{
+		margin-left: 0;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.intro-wrp{
+		justify-content: flex-start;
+	}
+	.img-space{
+		display: none;
+	}
+	.main-frame{
+		height: calc(100% - 100px);
+	}
+}
+
+@media screen and (max-width: 680px) {
+	.main-logo{
+		max-width: 120px;
+	}
+	.main-logo2{
+		max-height: 42px;
+	}
+	.main-logo2{
+	margin-left: 10px;
+}
+}
+
+@media screen and (max-width: 800px) {
+.main-frame{
+	padding-bottom: 300px;
+}
+}
+@media screen and (max-width: 500px) {
+.main-frame{
+	padding-bottom: 400px;
+}
+}
+
+@media screen and (max-height: 690px){
+.home-cnt{
+	padding-bottom: 130px;
+}
+.copyright{
+	padding: 20px;
+	width: calc(100% - 40px);
+	border-radius: 0;
+}
+
+}
